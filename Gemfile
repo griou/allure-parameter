@@ -1,0 +1,5 @@
+gem 'allure-rspec'
+gem 'capybara'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'pry'
